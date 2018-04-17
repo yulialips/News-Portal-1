@@ -95,7 +95,19 @@ ul {
 }
 #prev {
     left: 990px;
-    margin-top: 240px;
+    margin-top: 50px;
+}
+.horizontal-controls1 {
+    position: absolute;
+    display: inline-block;
+    width: 12px;
+    height: 20px;
+    top: 50%;
+    margin-top: -10px;
+}
+#prev1 {
+    left: 290px;
+    margin-top: 50px;
 }
 .img {
     text-align: center;
